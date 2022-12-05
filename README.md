@@ -363,3 +363,12 @@ Note that UI-Buttons offer OnClick-Listeners right from the Editor that do not r
 - Passing parameters between scripts
 - Divide/Assign (/=) operator
 - Grouping child objects
+
+# Unit 5 - Bonus Features and Extra Features (Ninja Crates)
+-UI Menu and Sound (Easy, Hard, Medium)
+-Particle and Sound Effects
+-Camera Shake When Hit Objects
+-TMPro For Lives, Time, and Score
+-2D Background
+-Slider Volume
+-Paused Game, etc.
